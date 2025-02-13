@@ -1,3 +1,4 @@
 app.mjs
 cd cls1
 node app.mjs
+npm init
